@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Navigation Drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="sample_desc">This is a sample of navigation drawer</string>
+    
+    <string name="open_left_drawer">Open Drawer</string>
+    <string name="close_left_drawer">Open Drawer</string>
+</resources>
